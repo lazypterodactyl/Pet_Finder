@@ -1,0 +1,14 @@
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\bin\Debug\netcoreapp2.2\PetClinic.API.deps.json
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\bin\Debug\netcoreapp2.2\PetClinic.API.runtimeconfig.json
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\bin\Debug\netcoreapp2.2\PetClinic.API.runtimeconfig.dev.json
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\bin\Debug\netcoreapp2.2\PetClinic.API.dll
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\bin\Debug\netcoreapp2.2\PetClinic.API.pdb
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.csprojAssemblyReference.cache
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.csproj.CoreCompileInputs.cache
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.RazorAssemblyInfo.cache
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.RazorAssemblyInfo.cs
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.AssemblyInfoInputs.cache
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.AssemblyInfo.cs
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.RazorTargetAssemblyInfo.cache
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.dll
+C:\Users\spapp\Visual Studio Projects\Pet_Finder\Pet_Finder\PetClinic.API\obj\Debug\netcoreapp2.2\PetClinic.API.pdb
